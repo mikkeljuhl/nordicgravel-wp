@@ -63,7 +63,7 @@
 		</div>
 
 		<div class="site-info container">
-			<?php printf( esc_html__( 'Crafted with %1$s by %2$s.', 'minalite' ), '<i class="fa fa-heart"></i>', '<a href="http://zthemes.net/" rel="designer">ZThemes.net</a>' ); ?>
+			<?php printf( esc_html__( 'Produceret med %1$s af Nordic Gravel', 'minalite' ), '<i class="fa fa-heart"></i>' ); ?>
 		</div><!-- .site-info -->
 		
 	</footer><!-- #colophon -->

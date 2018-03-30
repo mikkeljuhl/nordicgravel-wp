@@ -64,7 +64,7 @@
 	</div><!-- .entry-content -->
 
 	<div class="entry-more">
-		<a href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>"><?php esc_html_e( 'Continue Reading', 'minalite' ); ?></a>
+		<a href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>"><?php esc_html_e( 'Læs mere', 'minalite' ); ?></a>
 	</div>
 	<?php endif; ?>
 
